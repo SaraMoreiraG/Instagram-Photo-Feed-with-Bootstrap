@@ -1,0 +1,21 @@
+img{
+    width: 300px;
+    height: auto;
+}
+
+.card{
+    width: 45%;
+    border-radius: 1%;
+}
+.card-top{
+    display: flex;
+    padding: 10px;
+}
+.card-body{
+    padding: 10px;
+    padding-bottom: 20px; 
+}
+.card-date{
+    margin-left: auto;
+    font-size: 12px;
+}
